@@ -29,6 +29,7 @@
                     {{$contact->url}}
                     {{$gender}}
                     {{$age}}
+                    {{$age}}
                     {{$contact->contact}}
 
 
